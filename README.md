@@ -1,1 +1,1 @@
-# E-commerce-Website-
+# This is a GoSports static website 
